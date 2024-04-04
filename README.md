@@ -3,13 +3,7 @@
 Group#2_ Spherical
 
 Members:
-
-PL : Perilla, Aira A.
-
-PE : 
-
-PS : Arnante, Juan Bienvinido P.
-
-PQ : Almonte, Ray Ivan C.
-
-PR : Tolentino, Gian Carl C.
+ - Perilla, Aira A.
+ - Arnante, Juan Bienvinido P.
+ - Almonte, Ray Ivan C.
+ - Tolentino, Gian Carl C.
